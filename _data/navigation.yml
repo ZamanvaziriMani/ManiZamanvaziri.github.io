@@ -3,20 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CurrentProjects"
+    url: /CurrentProjects/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /CV/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Courses and Grades"
+    url: /CoursesAndGrades/
+    
+    
+  - title: "Random Intrests(books , movies and ...)"
+    url: /RandomIntrests/
